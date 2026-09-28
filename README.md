@@ -52,11 +52,11 @@ python scripts/ingestar.py       # limpia, fragmenta, embebe y sube las 4 polít
 
 ```bash
 python main.py                                    # la pregunta de demo
-python main.py "En un equipo de TechCorp hay 3 personas con 2 años de antigüedad, 2 con 7 años y 1 con 12 años. ¿Cuántos días de vacaciones suman en total este año según la política vigente?"
+# "En un equipo de TechCorp hay 3 personas con 2 años de antigüedad, 2 con 7 años y 1 con 12 años. ¿Cuántos días de vacaciones suman en total este año según la política vigente?"
+python main.py "¿Cuántos días de licencia por mudanza da TechCorp?"  # pregunta de prueba que no requiere llamar al analista ni calcular
 ```
 
-Las dos líneas corren la misma consulta (la segunda la escribe explícita, para usarla de molde con
-una pregunta propia). La respuesta esperada es **112 días** y el recorrido es el de la
+La respuesta esperada para la pregunta demo (`python main.py`) es **112 días** y el recorrido es el de la
 [traza de ejecución](#traza-de-ejecución) de más abajo.
 
 Cada paso se imprime a medida que ocurre —qué decidió el supervisor, por qué, y si el aporte de
@@ -203,7 +203,7 @@ en la instrucción del analista. El analista nunca elige de dónde salen los dat
 
 ## Traza de ejecución
 
-Salida real de `python main.py` (completa en [`traza_delegacion.json`](traza_delegacion.json)):
+Ejemplo de salida de `python main.py` (completa en [`traza_delegacion.json`](traza_delegacion.json)):
 
 ```
 [supervisor] -> investigador
