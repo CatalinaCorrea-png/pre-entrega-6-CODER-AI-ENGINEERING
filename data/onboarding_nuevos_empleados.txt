@@ -1,0 +1,163 @@
+TechCorp — Documento Interno · Uso restringido
+Página 1 de 7
+
+Proceso de Onboar­ding de Nuevos Empleados - TechCorp
+Versión 2.4 - Vigente desde el 1 de abril de 2025
+
+1.​ ALCANCE Y OBJETIVO
+
+El proceso de incorp­oración de nuevos empleados en TechCorp dura 4 semanas y está
+compuesto por tres etapas: inducción general, capaci­tación especíﬁca del rol, y
+acompa­ñamiento con un mentor asignado, denomi­nado intern­amente buddy.
+
+El objetivo del proceso es que, al cabo de las 4 semanas, el nuevo integr­ante tenga
+autonomía para asumir tareas de comple­jidad media sin superv­isión perman­ente, conozca los
+procesos críticos de la compañía y haya establ­ecido vínculos con las personas con las que
+intera­ctuará de manera habitual.
+
+El proceso alcanza a todas las incorp­oraciones en relación de depend­encia, incluidas las
+promoc­iones internas que impliquen un cambio de área.
+
+2.​ ETAPA PREVIA AL INGRESO
+
+Recursos Humanos envía, con al menos 5 días hábiles de antici­pación a la fecha de
+
+TechCorp — Documento Interno · Uso restringido
+Página 2 de 7
+
+ingreso, un correo de bienve­nida que incluye la docume­ntación a presentar, el cronog­rama
+de la primera semana y los datos de contacto de su líder y de su buddy.
+
+El área de TI prepara el equipa­miento y las cuentas de acceso para que estén operat­ivos
+el primer día.​ El líder directo es respon­sable de validar, 48 horas antes del ingreso,
+que el equipa­miento esté dispon­ible y que los accesos hayan sido solici­tados.
+
+3.​ SEMANA 1: INDUCCIÓN GENERAL
+
+Durante la primera semana, el nuevo empleado recibe su equipa­miento, completa el alta en
+los sistemas internos y participa de las sesiones de inducción general.
+
+La inducción general comprende una presen­tación instit­ucional de la compañía, su
+estruc­tura y sus líneas de producto; la capaci­tación obliga­toria de seguridad
+inform­ática; la explic­ación de las políticas de licencias, teletr­abajo y compen­saciones;
+y una recorrida por las herram­ientas de trabajo cotidi­anas.
+
+La capaci­tación de seguridad inform­ática es de carácter obliga­torio y debe completarse
+dentro de los primeros 15 días de ingreso.​ Sin ella, los accesos a entornos productivos
+permanecen bloqueados.
+
+TechCorp — Documento Interno · Uso restringido
+Página 3 de 7
+
+
+La primera semana se cursa de manera presencial en la sede asignada. Los empleados
+contratados bajo modalidad remota completa desde su ingreso participan de una semana de
+inducción presencial, cuyos gastos de traslado y alojamiento cubre TechCorp.
+
+4.​ SEMANAS 2 Y 3: CAPACITACIÓN ESPECÍFICA DEL ROL
+
+La segunda y la tercera semana se destinan a la capacitación técnica y funcional propia
+del rol.​ El contenido lo deﬁne el líder directo a partir de la plantilla de onboa-
+rding del área, que Recursos Humanos mantiene actualizada.
+
+En roles técnicos, esta etapa incluye la conﬁguración del entorno de desarrollo local,
+la lectura guiada de la documentación de arquitectura, y la resolución de al menos una
+tarea acotada de baja complejidad con revisión de código por parte de un par.
+
+Se espera que al ﬁnal de la tercera semana el nuevo integrante haya realizado su primera
+contribución al repositorio productivo de su equipo, por mínima que sea.​ Esta primera
+contribución tiene un objetivo formativo: validar que el circuito completo de trabajo,
+desde el entorno local hasta el despliegue, esté operativo y comprendido.
+
+
+TechCorp — Documento Interno · Uso restringido
+Página 4 de 7
+
+5.​ SEMANA 4: ACOMPAÑAMIENTO Y AUTONOMÍA PROGRESIVA
+
+Durante la cuarta semana el nuevo empleado asume tareas del backlog regular de su equipo,
+con acompañamiento del buddy y revisión del líder directo.
+
+La carga de trabajo asignada en esta semana no debe superar el 50% de la de un integrante
+con experiencia en el equipo.​ La sobrecarga temprana es uno de los factores más
+frecuentemente asociados a la rotación durante los primeros seis meses.
+
+Al cierre de la cuarta semana, el líder directo completa el informe de cierre de
+onboarding, que se comparte con el empleado y con Recursos Humanos.
+
+6.​ PROGRAMA DE BUDDY
+
+A cada nuevo integrante se le asigna un buddy: un empleado del mismo equipo o de un
+equipo afín, con una antigüedad mínima de 6 meses en la compañía, que actúa como
+referente informal durante los primeros 90 días.
+
+El rol del buddy es responder consultas cotidianas, facilitar presentaciones con otras
+áreas y ofrecer un canal de consulta de menor formalidad que el líder directo.​ El buddy
+
+TechCorp — Documento Interno · Uso restringido
+Página 5 de 7
+
+no evalúa el desempeño del nuevo integrante ni participa de las instancias formales de
+evaluación.
+
+Se espera que el buddy mantenga al menos una reunión semanal de 30 minutos durante el
+primer mes, y una reunión quincenal durante el segundo y el tercer mes.
+
+Un mismo empleado no puede ser buddy de más de una persona en simultáneo.​ La
+participación en el programa es voluntaria y se considera de manera positiva en las
+instancias de evaluación de desempeño.
+
+7.​ INSTANCIAS DE SEGUIMIENTO
+
+TechCorp establece tres instancias formales de seguimiento, a los 30, 60 y 90 días de
+la fecha de ingreso.
+
+La instancia de 30 días es una conversación entre el empleado y su líder directo sobre la
+experiencia de onboarding, la claridad de las expectativas y los obstáculos encontrados.
+
+La instancia de 60 días incorpora una devolución del líder sobre el desempeño observado y
+la deﬁnición conjunta de objetivos para el trimestre siguiente.
+
+TechCorp — Documento Interno · Uso restringido
+Página 6 de 7
+
+
+La instancia de 90 días es la evaluación formal de cierre del período de incorporación e
+incluye la participación de Recursos Humanos.​ Su resultado se registra en el legajo del
+empleado.
+
+8.​ PERÍODO DE PRUEBA
+
+El período de prueba se rige por la legislación laboral vigente y por lo establecido en
+el contrato individual de trabajo.​ Su duración no se modiﬁca por efecto de esta política.
+
+La ﬁnalización del proceso de onboarding no equivale a la superación del período de
+prueba, ni el informe de cierre de la cuarta semana constituye una evaluación formal a
+esos ﬁnes.
+
+9.​ ONBOARDING DE PROMOCIONES INTERNAS
+
+Los empleados que cambian de área dentro de TechCorp cursan una versión reducida del
+proceso, de 2 semanas, que omite la inducción institucional y la capacitación de
+seguridad, ya completadas.
+
+
+TechCorp — Documento Interno · Uso restringido
+Página 7 de 7
+
+Se les asigna igualmente un buddy del área de destino y participan de las instancias de
+seguimiento de 30 y 90 días. La instancia de 60 días es opcional y queda a criterio del
+líder receptor.
+
+10.​ RESPONSABILIDADES
+
+Recursos Humanos es responsable de la coordinación general del proceso, del envío de la
+comunicación previa y del mantenimiento de las plantillas de onboarding por área.
+
+El líder directo es responsable del contenido de la capacitación especíﬁca, de la
+asignación del buddy, de la validación previa del equipamiento y de las instancias de
+seguimiento.
+
+El área de TI es responsable de la provisión del equipamiento y de los accesos en tiempo
+y forma.
+

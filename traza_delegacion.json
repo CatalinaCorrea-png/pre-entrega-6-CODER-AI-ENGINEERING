@@ -1,0 +1,55 @@
+{
+  "pregunta": "En un equipo de TechCorp hay 3 personas con 2 años de antigüedad, 2 con 7 años y 1 con 12 años. ¿Cuántos días de vacaciones suman en total este año según la política vigente?",
+  "modelo": "gemini-flash-lite-latest",
+  "flujo": [
+    "supervisor",
+    "investigador",
+    "supervisor",
+    "analista",
+    "supervisor",
+    "sintesis"
+  ],
+  "decisiones": [
+    {
+      "turno": 1,
+      "next": "investigador",
+      "razon": "No tenemos los datos de la política interna de TechCorp sobre los días de vacaciones según los años de antigüedad.",
+      "instruccion": "Busca en las políticas internas de TechCorp cuántos días de vacaciones corresponden este año a empleados con 2 años, 7 años y 12 años de antigüedad respectivamente."
+    },
+    {
+      "turno": 2,
+      "next": "analista",
+      "razon": "Ya tenemos los días de vacaciones por antigüedad gracias al investigador (2 años = 14 días, 7 años = 21 días, 12 años = 28 días) y ahora necesitamos calcular el total para el equipo dado la cantidad de personas en cada categoría.",
+      "instruccion": "Calcula el total de días de vacaciones sumando las cantidades para el equipo de TechCorp: hay 3 personas con 2 años de antigüedad (14 días cada una), 2 personas con 7 años de antigüedad (21 días cada una) y 1 persona con 12 años de antigüedad (28 días). Multiplica los días por la cantidad de personas en cada categoría y luego suma todos los subtotales para obtener el total general."
+    },
+    {
+      "turno": 3,
+      "next": "FINISH",
+      "razon": "El investigador obtuvo los días correspondientes para cada antigüedad y el analista calculó correctamente el total general (112 días), respondiendo completamente a la pregunta original.",
+      "instruccion": ""
+    }
+  ],
+  "contribuciones": [
+    {
+      "agente": "investigador",
+      "tarea": "Busca en las políticas internas de TechCorp cuántos días de vacaciones corresponden este año a empleados con 2 años, 7 años y 12 años de antigüedad respectivamente.",
+      "aporte": "Según la política de vacaciones de TechCorp:\n\n* **Empleados con 2 años de antigüedad:** 14 días corridos por año calendario (ya que acceden a 14 días aquellos con menos de 5 años de antigüedad).\n* **Empleados con 7 años de antigüedad:** 21 días corridos por año calendario (corresponde al rango de 5 años o más y hasta 10 años).\n* **Empleados con 12 años de antigüedad:** 28 días corridos por año calendario (corresponde a quienes tienen más de 10 años de antigüedad).\n\n**Fuente:** `politica_vacaciones.txt`",
+      "valido": true,
+      "motivo": null,
+      "herramientas_usadas": [
+        "buscar_en_politicas_internas"
+      ]
+    },
+    {
+      "agente": "analista",
+      "tarea": "Calcula el total de días de vacaciones sumando las cantidades para el equipo de TechCorp: hay 3 personas con 2 años de antigüedad (14 días cada una), 2 personas con 7 años de antigüedad (21 días cada una) y 1 persona con 12 años de antigüedad (28 días). Multiplica los días por la cantidad de personas en cada categoría y luego suma todos los subtotales para obtener el total general.",
+      "aporte": "Resultado: 112",
+      "valido": true,
+      "motivo": null,
+      "herramientas_usadas": [
+        "calculadora"
+      ]
+    }
+  ],
+  "respuesta_final": "Según la política de vacaciones de TechCorp, los días correspondientes según la antigüedad son:\n\n* Empleados con 2 años de antigüedad: 14 días cada uno.\n* Empleados con 7 años de antigüedad: 21 días cada uno.\n* Empleados con 12 años de antigüedad: 28 días cada uno.\n\nHaciendo el cálculo para todo el equipo (3 personas de 2 años, 2 personas de 7 años y 1 persona de 12 años), los días de vacaciones suman en total **112 días** este año."
+}

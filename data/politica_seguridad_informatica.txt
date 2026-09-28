@@ -1,0 +1,158 @@
+TechCorp â Documento Interno Â· Uso restringido
+PÃ¡gina 1 de 7
+
+PolÃ­tica de Seguridad InformÂ­Ã¡tica - TechCorp
+VersiÃ³n 5.1 - Vigente desde el 15Â de enero de 2025
+
+1.â ALCANCE
+
+Esta polÃ­tica alcanza a todo empleado, contraÂ­tista, consultorÂ o tercero con acceso a
+sistemas, redes, aplicaÂ­ciones o datos de TechCorp, conÂ indepeÂ­ndencia de su modalidad de
+contraÂ­taciÃ³n y de si el acceso se realizaÂ desde equipaÂ­miento corporÂ­ativo o personal.
+
+El desconÂ­ocimiento de esta polÃ­tica no exime deÂ su cumpliÂ­miento.â Todo empleado debe
+completar la capaciÂ­taciÃ³n inicial de seguridad dentro deÂ los primeros 15 dÃ­as de su
+ingreso y la recertÂ­iï¬caciÃ³n anual obligaÂ­toria.
+
+2.â AUTENTÂ­ICACIÃNÂ Y CONTRAÂ­SEÃAS
+
+Todo empleado con acceso a sistemas internos de TechCorp debe utilizarÂ autentÂ­icaciÃ³n de
+dos factores (2FA) sin excepciÃ³n.â El segundo factor debe conï¬guÂ­rarse medianteÂ aplicaÂ­ciÃ³n
+de autentÂ­icaciÃ³n o llave fÃ­sica de seguridad.â El envÃ­o de cÃ³digos porÂ SMS estÃ¡
+deshabÂ­ilitado por considÂ­erarse un mecanismo vulnerÂ­able a ataques de intercÂ­ambio deÂ SIM.
+
+
+TechCorp â Documento Interno Â· Uso restringido
+PÃ¡gina 2 de 7
+
+Las contraÂ­seÃ±as deben tener una longitud mÃ­nima de 14 caractÂ­eres.â TechCorp noÂ exige
+rotaciÃ³n periÃ³dica obligaÂ­toria, alineÃ¡Â­ndose con las recomeÂ­ndaciones actuales que
+identiÂ­ï¬can la rotaciÃ³n forzadaÂ como un factor que degrada la calidad de las contraÂ­seÃ±as.
+SÃ­ se exigeÂ el cambio inmediato ante cualquier sospecha de comproÂ­miso.
+
+El uso de un gestorÂ de contraÂ­seÃ±as corporÂ­ativo es obligaÂ­torio para el almaceÂ­namiento de
+credenÂ­ciales de sistemas internos.Â EstÃ¡ expresÂ­amente prohibido almacenar credenÂ­ciales en
+archivos de texto plano, planillas de cÃ¡lculo,Â reposiÂ­torios de cÃ³digo o canales de
+mensajÂ­erÃ­a.
+
+3.â GESTIÃN DE ACCESOS
+
+Los accesos se otorganÂ bajo el principio de menor privilÂ­egio: cada usuario recibe
+Ãºnicamente los permisos indispensablesÂ para el desempeÃ±o de sus funciones.
+
+Toda solicitud de acceso a un sistemaÂ debe originarse en el lÃ­der directo del empleado y
+ser aprobada por elÂ propietario del sistema en cuestiÃ³n.â Los accesos a entornos de
+producciÃ³n requieren ademÃ¡sÂ la aprobaciÃ³n del Ã¡rea de Seguridad de la InformaciÃ³n.
+
+Los accesos se revisanÂ trimestralmente.â Los que no hayan registrado uso durante 90 dÃ­as
+
+TechCorp â Documento Interno Â· Uso restringido
+PÃ¡gina 3 de 7
+
+corridos se revocanÂ automÃ¡ticamente, y su restituciÃ³n requiere una nueva solicitud
+completa.
+
+Ante la desvinculaciÃ³n de unÂ empleado, todos sus accesos se revocan dentro de las 2 horas
+de notiï¬cadaÂ la baja a Recursos Humanos.â En los casos de desvinculaciÃ³n no consensuada,
+laÂ revocaciÃ³n es simultÃ¡nea a la notiï¬caciÃ³n.
+
+4.â DISPOSITIVOS Y ESTACIONES DE TRABAJO
+
+Los equiposÂ corporativos deben mantener el cifrado de disco completo activado, el
+bloqueo automÃ¡tico deÂ pantalla tras 10 minutos de inactividad y el agente de seguridad
+corporativo enÂ ejecuciÃ³n permanente.
+
+EstÃ¡ prohibido deshabilitar los controles de seguridad, instalar software no autorizadoÂ o
+utilizar cuentas con privilegios administrativos para tareas cotidianas.â Las excep-
+ciones para roles tÃ©cnicosÂ que requieran privilegios elevados se documentan y revisan
+semestralmente.
+
+El uso de dispositivos personalesÂ para acceder a informaciÃ³n corporativa se limita al
+correo electrÃ³nico y a lasÂ herramientas de mensajerÃ­a, y requiere la instalaciÃ³n del
+
+TechCorp â Documento Interno Â· Uso restringido
+PÃ¡gina 4 de 7
+
+perï¬l de gestiÃ³n corporativo.â ElÂ acceso a repositorios de cÃ³digo, bases de datos y
+entornos de producciÃ³n desdeÂ dispositivos personales estÃ¡ prohibido sin excepciÃ³n.
+
+La conexiÃ³n a redes wiï¬ pÃºblicas requiereÂ el uso de la VPN corporativa.â La VPN debe
+permanecer activa durante todaÂ la sesiÃ³n de trabajo fuera de las sedes de TechCorp.
+
+5.â CLASIFICACIÃN DEÂ LA INFORMACIÃN
+
+TechCorp clasiï¬ca su informaciÃ³n en cuatro niveles.â La informaciÃ³n PÃºblica puede
+difundirseÂ sin restricciones.â La informaciÃ³n Interna es de circulaciÃ³n general dentro de
+la compaÃ±Ã­aÂ pero no puede compartirse con terceros.â La informaciÃ³n Conï¬dencial se
+restringe a lasÂ personas con necesidad de conocer y su difusiÃ³n externa requiere acuerdo
+de conï¬dencialidadÂ ï¬rmado.â La informaciÃ³n Restringida, que incluye datos personales de
+clientes, credenciales y cÃ³digoÂ fuente de productos, exige ademÃ¡s registro de acceso y
+aprobaciÃ³n explÃ­cita del propietario.
+
+TodoÂ documento debe rotularse con su nivel de clasiï¬caciÃ³n.â Los documentos sin rÃ³tuloÂ se
+consideran de nivel Interno por defecto.
+
+La informaciÃ³n Conï¬dencial y Restringida no puedeÂ almacenarse en servicios de nube
+
+TechCorp â Documento Interno Â· Uso restringido
+PÃ¡gina 5 de 7
+
+personales, ni transferirse mediante dispositivos de almacenamiento extraÃ­blesÂ sin
+cifrado aprobado por Seguridad de la InformaciÃ³n.
+
+6.â USO DE HERRAMIENTAS DE INTELIGENCIAÂ ARTIFICIAL
+
+El uso de asistentes de inteligencia artiï¬cial generativa estÃ¡ permitido Ãºnicamente a
+travÃ©sÂ de las instancias corporativas contratadas por TechCorp, que cuentan con acuerdos
+de noÂ retenciÃ³n de datos.
+
+EstÃ¡ prohibido introducir informaciÃ³n Conï¬dencial o Restringida en herramientas de
+inteligenciaÂ artiï¬cial de acceso pÃºblico o en cuentas personales, incluyendo cÃ³digo
+fuente, datos deÂ clientes, documentaciÃ³n de arquitectura interna y credenciales.
+
+El cÃ³digo generado por asistentes deÂ inteligencia artiï¬cial debe someterse al mismo
+proceso de revisiÃ³n que el cÃ³digo escritoÂ manualmente, y el revisor asume la
+responsabilidad sobre su correcciÃ³n y seguridad.
+
+7.â REPORTEÂ DE INCIDENTES
+
+Todo empleado debe reportar de inmediato cualquier incidente o sospecha deÂ incidente de
+
+TechCorp â Documento Interno Â· Uso restringido
+PÃ¡gina 6 de 7
+
+seguridad al canal dedicado de Seguridad de la InformaciÃ³n.â Se consideranÂ incidentes,
+entre otros, la pÃ©rdida o robo de equipamiento, el acceso no autorizado,Â la recepciÃ³n de
+correos de suplantaciÃ³n de identidad y la divulgaciÃ³n accidental deÂ informaciÃ³n.
+
+El plazo mÃ¡ximo para reportar es de 1 hora desde la detecciÃ³n.Â TechCorp aplica una
+polÃ­tica de no represalia: el reporte de buena fe deÂ un incidente, incluso cuando el
+empleado haya contribuido a causarlo, no da lugarÂ a sanciÃ³n disciplinaria por el hecho
+reportado.
+
+La omisiÃ³n deliberada de reporte, en cambio,Â sÃ­ constituye una falta grave.
+
+8.â PHISHING Y CONCIENTIZACIÃN
+
+Seguridad de la InformaciÃ³n ejecutaÂ campaÃ±as de simulaciÃ³n de suplantaciÃ³n de identidad
+con una frecuencia trimestral.â Los empleadosÂ que interactÃºen con una simulaciÃ³n son
+asignados automÃ¡ticamente a un mÃ³dulo de capacitaciÃ³nÂ breve, de carÃ¡cter formativo y no
+punitivo.
+
+La reincidencia en tres o mÃ¡s simulacionesÂ dentro de un mismo aÃ±o calendario deriva en
+una instancia de acompaÃ±amiento personalizadoÂ con el equipo de Seguridad.
+
+TechCorp â Documento Interno Â· Uso restringido
+PÃ¡gina 7 de 7
+
+
+9.  INCUMPLIMIENTO
+
+El incumplimiento de esta polÃ­tica puede darÂ lugar a medidas que van desde el
+apercibimiento hasta la desvinculaciÃ³n con causa,Â segÃºn la gravedad, la reiteraciÃ³n y el
+impacto del hecho.
+
+Los casos que involucrenÂ la sustracciÃ³n deliberada de informaciÃ³n Restringida o el acceso
+no autorizado a sistemasÂ con intenciÃ³n de daÃ±o se derivan al Ã¡rea Legal, con
+independencia de lasÂ medidas disciplinarias internas que correspondan.
+

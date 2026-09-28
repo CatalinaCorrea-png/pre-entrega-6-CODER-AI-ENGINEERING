@@ -1,0 +1,28 @@
+# Orquestacion multi-agente
+langgraph
+langchain                  # create_agent
+langchain-core
+
+# LLM y embeddings: Gemini (gemini-embedding-001 con output_dimensionality=1536)
+langchain-google-genai
+
+# Recuperacion hibrida (el sistema de la pre-entrega 4)
+langchain-community        # BM25Retriever, loaders
+langchain-classic          # EnsembleRetriever (movido aca en LangChain 1.x)
+langchain-text-splitters
+langchain-pinecone
+pinecone
+rank_bm25                  # backend de BM25
+
+# Utilidades
+pydantic
+python-dotenv
+tiktoken                   # conteo de tokens real para el chunking
+
+# Tests (no hacen falta para correr el orquestador)
+pytest
+pytest-asyncio
+
+# Notebook de demo
+ipykernel
+nbconvert
